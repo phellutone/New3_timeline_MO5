@@ -74,7 +74,19 @@ crashlytics-build.properties
 
 
 /Assets/All
-/Assets/Plugins
+
+/Assets/Plugins/DefaultPlayables/
+/Assets/Plugins/NoribenFireworks/
+/Assets/Plugins/noribenLaserlight
+/Assets/Plugins/TirgamesAssets/PBRStageEquipment
+/Assets/Plugins/TirgamesAssets/Utility
+/Assets/Plugins/UniGLTF
+/Assets/Plugins/UnityCapture-master
+/Assets/Plugins/uOSC
+/Assets/Plugins/VRM
+/Assets/Plugins/VRMShaders
+/Assets/Plugins/websocket-sharp.dll
+
 /Assets/exclusive
 
 /Assets/ArtificialNight/99global/model/MO5CV01V2-vt1.3.3.1/MO5CV01V2-vs1.3.3/*
