@@ -9,10 +9,10 @@ Artificial Nightの3つあるプロジェクトのうちの、回転カメラの
 動かすときには関係ないです 一応残してある
 
 #### Assets/ArtificialNight
-コンテンツ類 [ドライブ](https://drive.google.com/drive/folders/1Lb-Dxc5R3biiEhlBcsDvvHSoB5mFoOXv)にあります
+コンテンツ類 [ドライブ](https://drive.google.com/drive/folders/1ZAN-65FTY0u8Jn23I_n9b6INMOjjLWop)にあります
 
 #### Assets/exclusive
-外部アセット等を編集してあるもの [ドライブ](https://drive.google.com/drive/folders/1VfFP7ufZXJb3CpQ4NW-Li6y2lIANufAG)にあります
+外部アセット等を編集してあるもの [ドライブ](https://drive.google.com/drive/folders/1DzMz1CPC4G8HNe-GZWpxYnkEqBX9OhLm)にあります
 
 #### Assets/Plugins
 プラグイン類
